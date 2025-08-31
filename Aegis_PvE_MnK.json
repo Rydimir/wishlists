@@ -1,27 +1,15 @@
-{
-    "description": "",
-    "name": "",
-    "data": [
-        {
-            "description": "",
-            "hash": 42435996,
-            "name": "God PvE",
-            "plugs": [
-                [
-                    3418782618,
-                    3987942396,
-                    831391274
-                ],
-                [
-                    3078487919,
-                    1089671869,
-                    2396489472
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "Mouse"
-            ]
-        }
-    ]
-}
+title:Aegis other weapons
+
+// Mint Retrograde - God PvE (pve,mnk)
+//notes: tags:pve,mnk
+dimwishlist:item=42435996&perks=3418782618,3078487919
+dimwishlist:item=42435996&perks=3418782618,1089671869
+dimwishlist:item=42435996&perks=3418782618,2396489472
+dimwishlist:item=42435996&perks=3987942396,3078487919
+dimwishlist:item=42435996&perks=3987942396,1089671869
+dimwishlist:item=42435996&perks=3987942396,2396489472
+dimwishlist:item=42435996&perks=831391274,3078487919
+dimwishlist:item=42435996&perks=831391274,1089671869
+dimwishlist:item=42435996&perks=831391274,2396489472
+
+
