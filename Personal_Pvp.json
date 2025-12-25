@@ -81,3 +81,11 @@ dimwishlist:item=3685829362&perks=247725512,1015611457
 dimwishlist:item=3685829362&perks=247725512,555281244
 dimwishlist:item=3685829362&perks=2579169598,1015611457
 dimwishlist:item=3685829362&perks=2579169598,555281244
+
+// Riptide (mnk,god-pvp)
+//notes: Roar of Battle tags:mnk,god-pvp
+dimwishlist:item=2297554989&perks=839105230,2969185026,1645158859,1194056669
+
+// Riptide (pvp,mnk)
+//notes: tags:pvp,mnk
+dimwishlist:item=2297554989&perks=1645158859,1194056669
