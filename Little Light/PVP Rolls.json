@@ -3,7 +3,7 @@
     "name": "PVP Rolls",
     "data": [
         {
-            "description": "Buen roll para cazador",
+            "description": "",
             "hash": 3946054154,
             "name": "Radiant Dance",
             "plugs": [
@@ -166,7 +166,7 @@
             ]
         },
         {
-            "description": "Revisa build para activar elemental",
+            "description": "",
             "hash": 3813721211,
             "name": "GodPvP",
             "plugs": [
@@ -189,7 +189,7 @@
             ]
         },
         {
-            "description": "Otras alternativas",
+            "description": "",
             "hash": 3813721211,
             "name": "",
             "plugs": [
@@ -235,7 +235,7 @@
             ]
         },
         {
-            "description": "Roar of Battle",
+            "description": "",
             "hash": 2297554989,
             "name": "",
             "plugs": [
@@ -292,6 +292,35 @@
             "tags": [
                 "Mouse",
                 "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3685829362,
+            "name": "Godroll",
+            "plugs": [
+                [
+                    1482024992,
+                    2860123632
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    509594246
+                ],
+                [
+                    332733060,
+                    1015611457,
+                    2923251173,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Mouse"
             ]
         }
     ]
